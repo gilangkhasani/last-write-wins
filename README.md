@@ -11,7 +11,7 @@
 * To terminate mvn spring-boot:run, kill process with CTRL + C.
 * Run the test using mvn clean test
 
-##JSON Payload
+## JSON Payload
 ````
     {
         "id" : 1,
